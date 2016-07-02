@@ -1,0 +1,11 @@
+platform :ios, ‘8.0’
+use_frameworks!
+
+target 'RWTFlickrSearch' do
+
+pod 'ReactiveCocoa', ‘4.1.0’
+pod 'objectiveflickr'#, '2.0.4'
+pod 'LinqToObjectiveC'#, '2.0.0'
+pod 'SDWebImage', ‘3.7.6’
+
+end

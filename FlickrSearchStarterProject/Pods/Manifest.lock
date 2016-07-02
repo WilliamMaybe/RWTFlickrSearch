@@ -1,0 +1,35 @@
+PODS:
+  - LinqToObjectiveC (2.0.0)
+  - objectiveflickr (2.0.4)
+  - ReactiveCocoa (4.1.0):
+    - ReactiveCocoa/UI (= 4.1.0)
+    - Result (~> 2.0)
+  - ReactiveCocoa/Core (4.1.0):
+    - ReactiveCocoa/no-arc
+    - Result (~> 2.0)
+  - ReactiveCocoa/no-arc (4.1.0):
+    - Result (~> 2.0)
+  - ReactiveCocoa/UI (4.1.0):
+    - ReactiveCocoa/Core
+    - Result (~> 2.0)
+  - Result (2.0.0)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+
+DEPENDENCIES:
+  - LinqToObjectiveC
+  - objectiveflickr
+  - ReactiveCocoa (= 4.1.0)
+  - SDWebImage (= 3.7.6)
+
+SPEC CHECKSUMS:
+  LinqToObjectiveC: 768f98c62d5b57cb6bdb7ab869e33d0a7a2da29c
+  objectiveflickr: aed169dae1eb5a5550ca78f7efd7ccde2e4c26e5
+  ReactiveCocoa: d70004d7a366a7b8e87e60ce2347182c77701949
+  Result: 9e75e1111c774c6ac594e14907b15057053a7959
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+
+PODFILE CHECKSUM: 14ad4bcea479a17977b93a89451d3abf80b6e159
+
+COCOAPODS: 1.0.0
